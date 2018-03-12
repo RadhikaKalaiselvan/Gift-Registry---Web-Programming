@@ -1,0 +1,67 @@
+@CHARSET "UTF-8";
+
+#jumbotron {
+    /*background: url("images/Langbryggan2.jpg");*/
+    /*background-size: 1280px;*/
+    /*background-repeat: no-repeat;*/
+    color: white;
+    text-align: center;
+    background: url(http://www.kinyu-z.net/data/wallpapers/228/1502485.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+.center {
+	text-align: center; 
+	margin-left: auto; 
+	margin-right: auto; 
+	margin-bottom: auto; 
+	margin-top: auto;
+}
+
+#logout {
+  background:none;
+  border:none;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
