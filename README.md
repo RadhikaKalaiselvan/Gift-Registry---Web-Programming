@@ -1,15 +1,21 @@
 Gift Registry functionalities:
 
-1. New regular user registration
-2. Regular User
 i. Login
+
 ii. Logout
+
 iii. User profile information display and editing
+
 iv. Forgot password functionality
+
 v. Ability to create a registry
+
 vi. Ability to search for items that you would like to add into registry
+
 vii. Ability to add/remove items from a registry
+
 viii. Ability to share registry to particular user or make it public
+
 
 
 The user will be able to search for any gift and the results will be displayed in table, user can also filter the results by price,user review,color, etc.
